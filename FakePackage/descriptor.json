@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f554b54f-a817-087f-c9a0-add37465ec2e",
+    "Name": "FakePackage",
+    "ModifiedOnUtc": "\/Date(1614701022000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
