@@ -15,6 +15,14 @@
           "A4": "3f51b37a-f5e3-4530-9251-7424f64ba071",
           "A5": "4d7f7873-1eae-41cc-9640-190e791c612d",
           "GF1": "null"
+        },
+        {
+          "UId": "e0865a51-d50c-48f4-b575-0d3dc500edb8",
+          "A2": "OutlookDevPkg.API",
+          "A3": "3f51b37a-f5e3-4530-9251-7424f64ba071",
+          "A4": "3f51b37a-f5e3-4530-9251-7424f64ba071",
+          "A5": "4d7f7873-1eae-41cc-9640-190e791c612d",
+          "GF1": "null"
         }
       ],
       "B6": "f554b54f-a817-087f-c9a0-add37465ec2e",
@@ -116,7 +124,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "string text =  \"Hello, world!\";\nILog logger = LogManager.GetLogger(\"GuidedLearningLogger\");\nlogger.Warn(\"Forgot to remove logger\");\nreturn true;",
+          "CH1": "string text =  \"Hello, world!\";\nILog logger = LogManager.GetLogger(\"GuidedLearningLogger\");\nlogger.Warn(\"Forgot to remove logger\");\n\nIDemoDI demo = Terrasoft.Core.Factories.ClassFactory.Get<IDemoDI>();\nvar aResult = demo.Add(1, 3);\nvar mResult = demo.Multiply(4, 3);\nlogger.Info(aResult);\nlogger.Info(mResult);\t\t\t\n\nreturn true;",
           "CH2": true
         },
         {

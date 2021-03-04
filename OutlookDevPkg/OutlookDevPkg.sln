@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookDevPkg", "OutlookDevPkg.csproj", "{D3709709-8CE9-4F09-BB19-4E84CCED35DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookDevPkg.API", "..\OutlookDevPkg.API\OutlookDevPkg.API.csproj", "{A3430286-BBEC-4442-BFED-755BB708517D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,9 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D3709709-8CE9-4F09-BB19-4E84CCED35DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,23 @@ Global
 		{D3709709-8CE9-4F09-BB19-4E84CCED35DC}.Release|x64.Build.0 = Debug|Any CPU
 		{D3709709-8CE9-4F09-BB19-4E84CCED35DC}.Release|x86.ActiveCfg = Debug|Any CPU
 		{D3709709-8CE9-4F09-BB19-4E84CCED35DC}.Release|x86.Build.0 = Debug|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Debug|x64.Build.0 = Debug|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Debug|x86.Build.0 = Debug|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Release|x64.ActiveCfg = Release|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Release|x64.Build.0 = Release|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Release|x86.ActiveCfg = Release|Any CPU
+		{A3430286-BBEC-4442-BFED-755BB708517D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9706E17E-ACB3-4A83-B9C2-70FB8D329B16}
 	EndGlobalSection
 EndGlobal

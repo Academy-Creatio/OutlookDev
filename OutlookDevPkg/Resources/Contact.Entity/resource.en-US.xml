@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess_Contact.Caption" Value="Contact Saving" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask_OnContactSaving.Caption" Value="OnContactSaving" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage_ContactSaving.Caption" Value="on Contact Saving" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_e3fa6fd9b4554dc1b57292419d221a50.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_e3fa6fd9b4554dc1b57292419d221a50.Lanes.Lane_7d65f533ddeb4919b2aeb2aa566b72e3.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

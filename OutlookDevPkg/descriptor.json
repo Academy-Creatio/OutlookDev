@@ -1,17 +1,17 @@
-{
+﻿{
   "Descriptor": {
     "UId": "d3709709-8ce9-4f09-bb19-4e84cced35dc",
     "PackageVersion": "7.8.0",
     "Name": "OutlookDevPkg",
-    "ModifiedOnUtc": "/Date(1614785693000)/",
-	"Maintainer": "Customer",
-	"Description": "Real dev package",
-	"DependsOn": [
-		{
-			"UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
-			"PackageVersion": "7.8.0",
-			"Name": "ProductCore"
-		}
-	]
+    "ModifiedOnUtc": "\/Date(1614785693000)\/",
+    "Maintainer": "Customer",
+    "Description": "Real dev package",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
   }
 }
