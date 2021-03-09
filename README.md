@@ -26,9 +26,9 @@
 |1|02-Mar, 2021|[Video][d1v]|Initial config, Logger, first break point|
 |2|03-Mar, 2021|[Video][d2v]|Event driven development, clio|
 |3|04-Mar, 2021|[Video][d3v]|DefaultBindingAttribute, Terrasoft.Configuration and Clio Packages|
-|4|05-Mar, 2021|[Video][d3v]|Woking with data|
+|4|05-Mar, 2021|[Video][d4v]|Woking with data|
+|5|08-Mar, 2021|[Video][d5v]|DataService and OData|
 <!-- 
-|5|08-Mar, 2021|[Video][d4v]|Topic|
 |6|09-Mar, 2021|[Video][d5v]|Topic|
 |7|10-Mar, 2021|[Video][d6v]|Topic|
 |8|11-Mar, 2021|[Video][d7v]|Topic|
@@ -42,8 +42,7 @@
 [d2v]: https://creatio-global.zoom.us/rec/play/wWDVeDa-_joEDnMZACtS-haUIkH1jlv0snrtTUz4wvGGqE6cEigHw0SfoNqAyhvjbwEaTUg-vUHFia9S.V5xOTpdxDra5YSsr
 [d3v]: https://creatio-global.zoom.us/rec/play/-cLFSrUbkPUCUYgl5-eeL7_Mj6-x5uMI5W25-DOyCw7TqSHVodkAqgy1-10_o4sPupOtRW320Mgzdd47.1e6o_7buol6v0cLF
 [d4v]: https://creatio-global.zoom.us/rec/play/mo3TFATovDgE1hF3rn-h8Pf1oQhXmZpi-AQrh0p3AZIV2lu0W4bBEdQg-OfeTW9m3yiXdtnqZDKCR82Z.CbdL0zuHDToYEYOx
-
-
+[d5v]: https://creatio-global.zoom.us/rec/play/MG7XS4_PGePb07ihowJqNEHVNzmpypNjSZJsY3EglVFZu_5pIVbJG3toQkOSNYhxRGkBzwPy-XDaaezi.qks_VUHAZA7ixywg
 <!-- Useful Links  -->
 [logger]: https://github.com/Academy-Creatio/TrainingProgramm/wiki/Custom-Logging-with-NLog
 [file-system-mode]:https://github.com/Academy-Creatio/TrainingProgramm/wiki/Enable-development-in-FileSystem-Mode
