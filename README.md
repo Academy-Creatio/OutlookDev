@@ -28,9 +28,9 @@
 |3|04-Mar, 2021|[Video][d3v]|DefaultBindingAttribute, Terrasoft.Configuration and Clio Packages|
 |4|05-Mar, 2021|[Video][d4v]|Woking with data|
 |5|08-Mar, 2021|[Video][d5v]|DataService and OData|
+|6|09-Mar, 2021|[Video][d6v]|Intro to UI|
+|7|10-Mar, 2021|[Video][d7v]|Buttons and actions|
 <!-- 
-|6|09-Mar, 2021|[Video][d5v]|Topic|
-|7|10-Mar, 2021|[Video][d6v]|Topic|
 |8|11-Mar, 2021|[Video][d7v]|Topic|
 |9|12-Mar, 2021|[Video][d8v]|Topic|
 |10|15-Mar, 2021|[Video][d9v]|Topic|
@@ -43,6 +43,13 @@
 [d3v]: https://creatio-global.zoom.us/rec/play/-cLFSrUbkPUCUYgl5-eeL7_Mj6-x5uMI5W25-DOyCw7TqSHVodkAqgy1-10_o4sPupOtRW320Mgzdd47.1e6o_7buol6v0cLF
 [d4v]: https://creatio-global.zoom.us/rec/play/mo3TFATovDgE1hF3rn-h8Pf1oQhXmZpi-AQrh0p3AZIV2lu0W4bBEdQg-OfeTW9m3yiXdtnqZDKCR82Z.CbdL0zuHDToYEYOx
 [d5v]: https://creatio-global.zoom.us/rec/play/MG7XS4_PGePb07ihowJqNEHVNzmpypNjSZJsY3EglVFZu_5pIVbJG3toQkOSNYhxRGkBzwPy-XDaaezi.qks_VUHAZA7ixywg
+[d6v]: https://creatio-global.zoom.us/rec/play/Lo6wnwXnsnghs-VhwzgqisXamiStGebiDwoJBOYh7eAJm11WCpkADOrXc-k0A4DKKQCbCUH1_hQ5-_ls.DDCI0E0BBZLWnvRN
+[d7v]: https://creatio-global.zoom.us/rec/play/G7F3yXzlljv0rKR_Iplh_su5R-4j7L2mFJaznvHiYLl9WZ2oWcqNuMaczs6nQ7ljfDi3XdFZmxsmvnzl.pDH1wINpj8wBT5BD
+
+
+
+
+
 <!-- Useful Links  -->
 [logger]: https://github.com/Academy-Creatio/TrainingProgramm/wiki/Custom-Logging-with-NLog
 [file-system-mode]:https://github.com/Academy-Creatio/TrainingProgramm/wiki/Enable-development-in-FileSystem-Mode

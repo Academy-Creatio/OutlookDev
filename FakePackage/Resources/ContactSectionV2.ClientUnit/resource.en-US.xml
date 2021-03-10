@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Contacts&quot;" />
+			<Item Name="Images.27823e50-286c-4925-8ba3-79e01442306d.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjAgMjAiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzgwOTViMyIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIj48cGF0aCBkPSJtNi41IDEzdi0yLjVoMTB2NGgtMy41Ii8+PHBhdGggZD0ibTMuNSAxMi41aDEwdjRoLTEweiIvPjxwYXRoIGQ9Im02LjUgNXYtMi41aDEwdjRoLTMuNSIvPjxwYXRoIGQ9Im0zLjUgNC41aDEwdjRoLTEweiIvPjwvZz48L3N2Zz4=" />
+			<Item Name="Images.87d51ab9-8e4d-a368-c42a-22628e4f16bc.Caption" Value="CreatioCircle" />
+			<Item Name="Images.87d51ab9-8e4d-a368-c42a-22628e4f16bc.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxODUgMjEzIj4KICAgIDxkZWZzPgogICAgICAgIDxzdHlsZT4KICAgICAgICAgICAgLmNscy0xe2ZpbGw6I2ZmNDAxM30uY2xzLTJ7ZmlsbDojZTEwMDAwfS5jbHMtM3tmaWxsOiNhODAwMDB9CiAgICAgICAgPC9zdHlsZT4KICAgIDwvZGVmcz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0zNDIgLTY0NzQpIj4KICAgICAgICA8cGF0aCBkPSJNMzQ3LjEgMjI0LjYzbC0xNTAgNDkgODItNDktMTE3LTEwNnoiIGNsYXNzPSJjbHMtMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTc5Ljg5NyA2MzU1LjM3KSIvPgogICAgICAgIDxwYXRoIGQ9Ik0xNjIuMzY2IDM3My40bDM1LTE1NS0xIDk3IDE1MS00OXoiIGNsYXNzPSJjbHMtMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTc5LjYzNCA2MzEzLjU5OSkiLz4KICAgICAgICA8cGF0aCBkPSJNMTYyLjM2NiAxMTguNjdsMTE3IDEwNi04Mi00OC0zNSAxNTV6IiBjbGFzcz0iY2xzLTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE3OS42MzQgNjM1NS4zMykiLz4KICAgIDwvZz4KPC9zdmc+Cg==" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Show duplicate '{0}'" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
+			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="The report will be generated for all records in the section, without filters. Do you wish to proceed?" />
+			<Item Name="LocalizableStrings.ReadSyncSettingsBadResponse.Value" Value="Error receiving synchronization settings." />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Caption" Value="SetUpSynchronization" />
+			<Item Name="LocalizableStrings.SetUpSynchronization.Value" Value="Set up contact synchronization" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
+			<Item Name="LocalizableStrings.SynchronizeExchangeContactsCaption.Value" Value="MS Exchange contacts synchronization" />
+			<Item Name="LocalizableStrings.SynchronizeExchangeSuccessMessage.Value" Value="Synchronization is started. We will notify you when it is completed." />
+			<Item Name="LocalizableStrings.SyncSettingsNotFoundMessage.Value" Value="Synchronization settings not specified." />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Caption" Value="SyncSettingsSetTipCaption" />
+			<Item Name="LocalizableStrings.SyncSettingsSetTipCaption.Value" Value="Now your contacts will always be up-to-date!&lt;br&gt;If needed, &lt;a href=&quot;#&quot;&gt;change the settings&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Unfollow the feed" />
+		</Items>
+	</Group>
+</Resources>
