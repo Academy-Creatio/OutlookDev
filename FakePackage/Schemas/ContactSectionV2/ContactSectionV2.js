@@ -2,6 +2,13 @@ define("ContactSectionV2", [], function() {
 	return {
 		entitySchemaName: "Contact",
 		details: /**SCHEMA_DETAILS*/{}/**SCHEMA_DETAILS*/,
+		messages: {
+			//Subscribed on: ContactPageV2.GuidedLearning
+			"SectionActionClicked": {
+				mode: this.Terrasoft.MessageMode.PTP,
+				direction: this.Terrasoft.MessageDirectionType.PUBLISH
+			}
+		},
 		diff: /**SCHEMA_DIFF*/[
 			{
                 // The operation of adding a component to the page is in progress..
@@ -84,6 +91,10 @@ define("ContactSectionV2", [], function() {
 
 			onBtnCLick: function(){
 				var tag = arguments[3];
+
+				//this.sandbox.id = SectionModuleV2_ContactSectionV2;
+				//page this.sandbox.id SectionModuleV2_ContactSectionV2_CardModuleV2"
+				this.sandbox.publish("SectionActionClicked", "message body", ["THIS_IS_MY_TAG2"]);
 			},
 
 		}
