@@ -1,0 +1,70 @@
+﻿{
+  "Descriptor": {
+    "UId": "c74516b4-6aab-0e59-82b5-597ad2c05934",
+    "Name": "Contact",
+    "ModifiedOnUtc": "\/Date(1615565481000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+      "Name": "Contact"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "bcdc7a32-4332-4caf-858d-0078b56856fe",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Age",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "0fb61bc8-a195-4d90-aecc-18b411b51814",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Address",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "a5cca792-47dd-428a-83fb-5c92bdd97ff8",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9463dea9-2576-4d37-812f-342ee57ddf32",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Country",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "dbf202ec-c444-479b-bcf4-d8e5b1863201",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Email",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "cf58ca72-531b-4dd2-b4d5-f0d5b7c556f6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "City",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "3f08db69-6d2f-4b1c-87a4-acddc6c3b9d6",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "BirthDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      }
+    ]
+  }
+}
