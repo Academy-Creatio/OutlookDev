@@ -1,0 +1,34 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1c0afc22-2232-4620-ab03-b04e8b0d363d"
+        },
+        {
+          "SchemaColumnUId": "55472376-a4dd-40da-86c6-975ce4b898fa",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "8f1984bb-7bef-4220-9b49-9a12d0ebcd68",
+          "Value": "a29a3ba5-4b0d-de11-9a51-005056c00008",
+          "DisplayValue": "All employees"
+        },
+        {
+          "SchemaColumnUId": "0fde6f1e-22c5-48c7-9c89-6f0031e270de",
+          "Value": "b36d22a6-9aaf-488a-8b01-45f7a5b6ef76",
+          "DisplayValue": "My System Setting"
+        },
+        {
+          "SchemaColumnUId": "23c7dde8-7cf5-4f18-9d76-0fa4179ee931",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "af6013ce-7387-4619-b4f4-30c4276fcfac",
+          "Value": "THIS IS MY SYSTEM SETTING VALUE (AKA API KEY)"
+        }
+      ]
+    }
+  ]
+}
