@@ -30,8 +30,9 @@
 |5|08-Mar, 2021|[Video][d5v]|DataService and OData|
 |6|09-Mar, 2021|[Video][d6v]|Intro to UI|
 |7|10-Mar, 2021|[Video][d7v]|Buttons and actions|
+|8|11-Mar, 2021|[Video][d8v]|More UI|
+|9|12-Mar, 2021|[Video][d9v]|Packages, DataBinding, changes|
 <!-- 
-|8|11-Mar, 2021|[Video][d7v]|Topic|
 |9|12-Mar, 2021|[Video][d8v]|Topic|
 |10|15-Mar, 2021|[Video][d9v]|Topic|
 -->
@@ -45,6 +46,8 @@
 [d5v]: https://creatio-global.zoom.us/rec/play/MG7XS4_PGePb07ihowJqNEHVNzmpypNjSZJsY3EglVFZu_5pIVbJG3toQkOSNYhxRGkBzwPy-XDaaezi.qks_VUHAZA7ixywg
 [d6v]: https://creatio-global.zoom.us/rec/play/Lo6wnwXnsnghs-VhwzgqisXamiStGebiDwoJBOYh7eAJm11WCpkADOrXc-k0A4DKKQCbCUH1_hQ5-_ls.DDCI0E0BBZLWnvRN
 [d7v]: https://creatio-global.zoom.us/rec/play/G7F3yXzlljv0rKR_Iplh_su5R-4j7L2mFJaznvHiYLl9WZ2oWcqNuMaczs6nQ7ljfDi3XdFZmxsmvnzl.pDH1wINpj8wBT5BD
+[d8v]: https://creatio-global.zoom.us/rec/play/UxWrGy-zfrx32ba6mKbxklUUIx6pG1mJoj2zxcN0Gz8E-gLGa3VaX5kAvac1t41EFf_DvY7w3D1Xe_SV.PieYZRlJdl3Ctpcu
+[d9v]: https://creatio-global.zoom.us/rec/play/fQC4heDGxpswbHKmP-fuxjlfZOHl3et2bC7Rdp-nnoSfVk-dF0iYI3nxx7fTF1zu17Natz28pp5NoolO.0tKqq8WiYGAIhNp9
 
 
 
